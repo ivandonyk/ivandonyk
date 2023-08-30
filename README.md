@@ -5,9 +5,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/ivandonyk/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 <ul>
-  <li>👨‍💻 Senior Software Developer.</li>
-  <li>💬 I'm ready to take responsibility and be your right hand in getting the job done.</li>
-  <li>📫 Reach out to me at <a href="mailto:ivandonyk@gmail.com">ivandonyk@gmail.com</a></li>
+  <li>👨‍💻 Senior Full Stack Engineer</li>
+  <li>💬 I'm ready to assume responsibility and act as your right hand in accomplishing the task..</li>
+  <li>📫 Feel free to reach out to me at <a href="mailto:ivandonyk@gmail.com">ivandonyk@gmail.com</a></li>
 </ul>
 
 <h3>🚀 Languages and Tools</h3>
