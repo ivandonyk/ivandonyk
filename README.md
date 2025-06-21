@@ -2,7 +2,7 @@
 <p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
 <p align="center">
   <a target="_blank" href="mailto:ivandonyk@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/ivandonyk/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ivan-donyk-in/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 <ul>
   <li>👨‍💻 Senior full-stack engineer with 10+ years of experience leading scalable product development in AI, fintech, and Web3.</li>
