@@ -5,7 +5,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/ivan-donyk-in/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 <ul>
-  <li>👨‍💻 Senior full-stack engineer with 10+ years of experience leading scalable product development in AI, fintech, and Web3.</li>
+  <li>👨‍💻 I'm a senior full stack developer with 10+ years of experience building scalable web and mobile apps across fintech, edtech, logistics, SaaS, and AI. I specialize in React, Node.js, TypeScript, and cloud-native systems with AWS, GraphQL, and OpenAI APIs.</li>
   <li>💬 I'm ready to assume responsibility and act as your right hand in accomplishing the task..</li>
   <li>📫 Feel free to reach out to me at <a href="mailto:ivandonyk@gmail.com">ivandonyk@gmail.com</a></li>
 </ul>
