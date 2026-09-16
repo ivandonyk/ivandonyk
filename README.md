@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Ivan <img src="assets/hi.gif" width="30px"></h1>
 <p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
 <p align="center">
-  <a target="_blank" href="mailto:ivandonyk@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="mailto:ivandonyktech@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
   <a target="_blank" href="https://www.linkedin.com/in/ivan-donyk-in/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 <ul>
   <li>👨‍💻 I'm a senior full stack developer with 10+ years of experience building scalable web and mobile apps across fintech, edtech, logistics, SaaS, and AI. I specialize in React, Node.js, TypeScript, and cloud-native systems with AWS, GraphQL, and OpenAI APIs.</li>
   <li>💬 I'm ready to assume responsibility and act as your right hand in accomplishing the task..</li>
-  <li>📫 Feel free to reach out to me at <a href="mailto:ivandonyk@gmail.com">ivandonyk@gmail.com</a></li>
+  <li>📫 Feel free to reach out to me at <a href="mailto:ivandonyktech@gmail.com">ivandonyktech@gmail.com</a></li>
 </ul>
 
 <h3>🚀 Languages and Tools</h3>
